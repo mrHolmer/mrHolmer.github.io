@@ -1,25 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Random Photo</title>
-  <style>
-    body {
-      text-align: center;
-    }
-    h1 {
-      margin-top: 20px;
-    }
-    img {
-      margin-top: 20px;
-      max-width: 500px;
-      max-height: 500px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who's That Person? Quiz</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1 id="personName"></h1>
-  <img id="photo" src="" alt="Random Photo">
-
-  <script src="script.js"></script>
+    <div class="quiz-container">
+        <h1>Who's This?</h1>
+        <div class="image-container">
+            <img id="random-image" src="" alt="Random Person">
+        </div>
+        <input type="text" id="user-guess" placeholder="Enter name...">
+        <button id="submit-btn">Submit</button>
+        <div id="feedback"></div>
+        <div class="score">Score: <span id="score">0</span></div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
