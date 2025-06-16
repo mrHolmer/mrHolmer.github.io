@@ -1,25 +1,57 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Random Photo</title>
-  <style>
-    body {
-      text-align: center;
-    }
-    h1 {
-      margin-top: 20px;
-    }
-    img {
-      margin-top: 20px;
-      max-width: 500px;
-      max-height: 500px;
-    }
-  </style>
-</head>
-<body>
-  <h1 id="personName"></h1>
-  <img id="photo" src="" alt="Random Photo">
+<html lang="en">
 
-  <script src="script.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brooklyn Tech Staff Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="seal.gif" type="image/x-icon">
+    <link rel="shortcut icon" href="seal.gif" type="image/x-icon">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1>Guess Who</h1>
+
+        <div class="department-filter">
+            <label for="department-select">Filter by Department:</label>
+            <select id="department-select">
+                <option value="ALL">All Departments</option>
+                <!-- Options will be added by JavaScript -->
+            </select>
+        </div>
+
+        <div class="image-container">
+            <img id="random-image" src="" alt="Random Staff Member">
+        </div>
+
+        <div class="quiz-controls">
+            <input type="text" id="user-guess" placeholder="Enter name..." autofocus>
+            <button id="submit-btn">Submit</button>
+
+        </div>
+
+        <div id="feedback"></div>
+
+        <!-- Moved skip confirmation to bottom -->
+        <div id="skip-confirm" class="skip-confirm" style="display: none;">
+            <div class="answer-display">
+                <p>Name: <strong id="skip-name"></strong></p>
+                <p>Department: <strong id="skip-dept"></strong></p>
+            </div>
+            <div class="continue-wrapper">
+                <button id="continue-btn">Continue</button>
+            </div>
+        </div>
+
+        <div class="score-container">
+            <span>Score: <span id="score">0</span></span>
+            <span>Streak: <span id="streak">0</span></span>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
+
 </html>
