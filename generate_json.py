@@ -1,5 +1,6 @@
 import os
 import json
+from pathlib import Path
 
 # Config
 BASE_IMAGE_DIR = "images"
@@ -14,27 +15,36 @@ for department in os.listdir(BASE_IMAGE_DIR):
         continue
 
     for filename in os.listdir(department_path):
-        if filename.lower().endswith((".jpg", ".jpeg", ".png")):
-            # Split filename and reformat name
-            last_first = os.path.splitext(filename)[0]
-            parts = last_first.split("_")
+        if filename.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
+            name_part = Path(filename).stem
+            parts = name_part.split("_")
             
-            # Handle both "Last_First" and "First_Last" cases
+            # Name processing with variants
             if len(parts) >= 2:
-                # Assume format is Last_First
-                first_name = parts[-1]  # Last element
-                last_name = "_".join(parts[:-1])  # All except last
+                first_name = parts[-1].strip()
+                last_name = " ".join(parts[:-1]).strip()
+                
+                # Primary display name
                 full_name = f"{first_name} {last_name}"
+                
+                # Common name variants
+                variants = []
             else:
-                full_name = last_first.replace("_", " ")
+                full_name = name_part.replace("_", " ").strip()
+                variants = []
             
             people.append({
-                "name": full_name,  # e.g. "Daniel Amato"
+                "name": full_name,
+                "variants": variants,
                 "department": department,
-                "image": f"{BASE_IMAGE_DIR}/{department}/{filename}"
+                "image": str(Path(BASE_IMAGE_DIR) / department / filename)
             })
 
+# Create output directory if needed
+os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
+
+# Write JSON with sorted keys for consistency
 with open(OUTPUT_JSON, "w") as f:
-    json.dump(people, f, indent=2)
+    json.dump(people, f, indent=2, sort_keys=True)
 
 print(f"Generated {OUTPUT_JSON} with {len(people)} entries")
