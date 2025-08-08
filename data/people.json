@@ -1,0 +1,2246 @@
+[
+  {
+    "department": "ADMIN",
+    "image": "images\\ADMIN\\Cuesta_Lourdes.jpg",
+    "name": "Lourdes Cuesta",
+    "variants": []
+  },
+  {
+    "department": "ADMIN",
+    "image": "images\\ADMIN\\Eddy_Rosabeth.jpg",
+    "name": "Rosabeth Eddy",
+    "variants": []
+  },
+  {
+    "department": "ADMIN",
+    "image": "images\\ADMIN\\Newman_David.jpg",
+    "name": "David Newman",
+    "variants": []
+  },
+  {
+    "department": "ADMIN",
+    "image": "images\\ADMIN\\Roseman_Steve.jpg",
+    "name": "Steve Roseman",
+    "variants": []
+  },
+  {
+    "department": "ADMIN",
+    "image": "images\\ADMIN\\Sullivan_Jennifer.jpg",
+    "name": "Jennifer Sullivan",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Bacchi_James.jpg",
+    "name": "James Bacchi",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Bernardo_Cyntra.jpg",
+    "name": "Cyntra Bernardo",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Bodzin_Daniel.jpg",
+    "name": "Daniel Bodzin",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Cheng_Victoria.jpg",
+    "name": "Victoria Cheng",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Doire_Stephanie.jpg",
+    "name": "Stephanie Doire",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Estrella_Michael.jpg",
+    "name": "Michael Estrella",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Hafeez_Areej.jpg",
+    "name": "Areej Hafeez",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Hannaford_Sarah.jpg",
+    "name": "Sarah Hannaford",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Joseph_Angela.jpg",
+    "name": "Angela Joseph",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Lennon_Diana.jpg",
+    "name": "Diana Lennon",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Lovelett_Kelly.jpg",
+    "name": "Kelly Lovelett",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Margarita_Elisa.jpg",
+    "name": "Elisa Margarita",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\McCaffery_Sean.jpg",
+    "name": "Sean McCaffery",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Morgan_Louis.jpg",
+    "name": "Louis Morgan",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Nasrollahi_Hadi.jpg",
+    "name": "Hadi Nasrollahi",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Nathan_Donna.jpg",
+    "name": "Donna Nathan",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\O'Brien_Iwona.jpg",
+    "name": "Iwona O'Brien",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\O_Brien_Iwona.jpg",
+    "name": "Iwona O Brien",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Reste_Caitlin.jpg",
+    "name": "Caitlin Reste",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Schell_William.jpg",
+    "name": "William Schell",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Tagliarino_Jessica.jpg",
+    "name": "Jessica Tagliarino",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Thomas_Devin.jpg",
+    "name": "Devin Thomas",
+    "variants": []
+  },
+  {
+    "department": "BIOLOGY",
+    "image": "images\\BIOLOGY\\Webber_Scott.jpg",
+    "name": "Scott Webber",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Adalat_Zonia.jpg",
+    "name": "Zonia Adalat",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Carter_Lisa.jpg",
+    "name": "Lisa Carter",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Chiemezie_Callistus.jpg",
+    "name": "Callistus Chiemezie",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Dong_Shirley.jpg",
+    "name": "Shirley Dong",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Evangelist_Thomas.jpg",
+    "name": "Thomas Evangelist",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Gerraputa_Joseph.jpg",
+    "name": "Joseph Gerraputa",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Greene_Melissa.jpg",
+    "name": "Melissa Greene",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Henry_Stephanie.jpg",
+    "name": "Stephanie Henry",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Khan_Iqra.jpg",
+    "name": "Iqra Khan",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Lee_Yong Jun.jpg",
+    "name": "Yong Jun Lee",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Leonard_Caroline.jpg",
+    "name": "Caroline Leonard",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Lin_Shi.jpg",
+    "name": "Shi Lin",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Mecner_Matthew.jpg",
+    "name": "Matthew Mecner",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Multari_Patricia.jpg",
+    "name": "Patricia Multari",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Nair_Sooraj.jpg",
+    "name": "Sooraj Nair",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Reviera_Joellen.jpg",
+    "name": "Joellen Reviera",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Richman_Conrad.jpg",
+    "name": "Conrad Richman",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Shtab_Joseph.jpg",
+    "name": "Joseph Shtab",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Singh_Anoopa.jpg",
+    "name": "Anoopa Singh",
+    "variants": []
+  },
+  {
+    "department": "CHEMISTRY",
+    "image": "images\\CHEMISTRY\\Walcott_Horace.jpg",
+    "name": "Horace Walcott",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Albury_Vickie.jpg",
+    "name": "Vickie Albury",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Boulis_Michael.jpg",
+    "name": "Michael Boulis",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Chang_Wandy.jpg",
+    "name": "Wandy Chang",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Collado_Luis.jpg",
+    "name": "Luis Collado",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Das_Rupesh.jpg",
+    "name": "Rupesh Das",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Doherty_Shaina.jpg",
+    "name": "Shaina Doherty",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Folwell_Nathan.jpg",
+    "name": "Nathan Folwell",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Gomez_Percia.jpg",
+    "name": "Percia Gomez",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Holmer_Quincy.jpg",
+    "name": "Quincy Holmer",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Irimina_Iulian.jpg",
+    "name": "Iulian Irimina",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Joa_Reina.jpg",
+    "name": "Reina Joa",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Kaufman_Rachel.jpg",
+    "name": "Rachel Kaufman",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Lee_Hoiming.jpg",
+    "name": "Hoiming Lee",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Lee_Tsee.jpg",
+    "name": "Tsee Lee",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Lopez_Richard.jpg",
+    "name": "Richard Lopez",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Lyons_Timothy.jpg",
+    "name": "Timothy Lyons",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Miller_Michael.jpg",
+    "name": "Michael Miller",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Moffitt_Luke.jpg",
+    "name": "Luke Moffitt",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Moshchenko_Marina.jpg",
+    "name": "Marina Moshchenko",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Price_Thomas.jpg",
+    "name": "Thomas Price",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Rodriguez_Mark.jpg",
+    "name": "Mark Rodriguez",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Singler_Richard.jpg",
+    "name": "Richard Singler",
+    "variants": []
+  },
+  {
+    "department": "CTE, COMPUTER SCIENCE & ENGINEERING",
+    "image": "images\\CTE, COMPUTER SCIENCE & ENGINEERING\\Turner_Ivan.jpg",
+    "name": "Ivan Turner",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Adelizzi_Matthew.jpg",
+    "name": "Matthew Adelizzi",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Armen_Samuel.jpg",
+    "name": "Samuel Armen",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Beach_Erin.jpg",
+    "name": "Erin Beach",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Bensing_Lisa.jpg",
+    "name": "Lisa Bensing",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Bonilla_Jess_Rhoades.jpg",
+    "name": "Rhoades Bonilla Jess",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Bueckert-Chan_Jo-Anna.jpg",
+    "name": "Jo-Anna Bueckert-Chan",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Bueckert-Chan_JoAnna.jpg",
+    "name": "JoAnna Bueckert-Chan",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Capozzi_Richard.jpg",
+    "name": "Richard Capozzi",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Del Valle_Sandra.jpg",
+    "name": "Sandra Del Valle",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Der Sarkisian_David.jpg",
+    "name": "David Der Sarkisian",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Drusin_Joanna.jpg",
+    "name": "Joanna Drusin",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Ferguson_Joy.jpg",
+    "name": "Joy Ferguson",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Filippelli_Elizabeth.jpg",
+    "name": "Elizabeth Filippelli",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Finkel_Jennifer.jpg",
+    "name": "Jennifer Finkel",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Gale_Zachary.jpg",
+    "name": "Zachary Gale",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Goodrum_Melissa.jpg",
+    "name": "Melissa Goodrum",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Green_Tanya.jpg",
+    "name": "Tanya Green",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Harris_Stephen.jpg",
+    "name": "Stephen Harris",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Hoque_Farhana.jpg",
+    "name": "Farhana Hoque",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Huczko_Kaitlyn.jpg",
+    "name": "Kaitlyn Huczko",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Johnston_Elliott.jpg",
+    "name": "Elliott Johnston",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Kaplan_Katrina.jpg",
+    "name": "Katrina Kaplan",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Kline_Avram.jpg",
+    "name": "Avram Kline",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Lederer_Joel.jpg",
+    "name": "Joel Lederer",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Levey_Nancy.jpg",
+    "name": "Nancy Levey",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Liu_Diana.jpg",
+    "name": "Diana Liu",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Losow_Evan.jpg",
+    "name": "Evan Losow",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Lvov_Elizabeth.jpg",
+    "name": "Elizabeth Lvov",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Malchiodi_Giancarlo.jpg",
+    "name": "Giancarlo Malchiodi",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Marcus_Ariel.jpg",
+    "name": "Ariel Marcus",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\McCullough_Robin.jpg",
+    "name": "Robin McCullough",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Newton_Gabriella.jpg",
+    "name": "Gabriella Newton",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Pettyjohn_Kemp.jpg",
+    "name": "Kemp Pettyjohn",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Pollicino_Stephanie.jpg",
+    "name": "Stephanie Pollicino",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Ryan_Judith.jpg",
+    "name": "Judith Ryan",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Seide_Samantha.jpg",
+    "name": "Samantha Seide",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Seshan_Sandhya.jpg",
+    "name": "Sandhya Seshan",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Sood_Sujay.jpg",
+    "name": "Sujay Sood",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Spinosa_Jessica.jpg",
+    "name": "Jessica Spinosa",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Sukalo_Vesna.jpg",
+    "name": "Vesna Sukalo",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Taveras_Judith.jpg",
+    "name": "Judith Taveras",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Virzi_Adam.jpg",
+    "name": "Adam Virzi",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Wasserstein_Israel.jpg",
+    "name": "Israel Wasserstein",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Whitman_David.jpg",
+    "name": "David Whitman",
+    "variants": []
+  },
+  {
+    "department": "ENGLISH",
+    "image": "images\\ENGLISH\\Yannascoli_Irene.jpg",
+    "name": "Irene Yannascoli",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Aboagye_Akua.jpg",
+    "name": "Akua Aboagye",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Barlow_Ally.jpg",
+    "name": "Ally Barlow",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Barone_Laura.jpg",
+    "name": "Laura Barone",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Chan_Albert.jpg",
+    "name": "Albert Chan",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Chan_Debora.jpg",
+    "name": "Debora Chan",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Cincotta_Kimberly.jpg",
+    "name": "Kimberly Cincotta",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Fulop_Michelle.jpg",
+    "name": "Michelle Fulop",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Garcia_Neena.jpg",
+    "name": "Neena Garcia",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Ip_Ken.jpg",
+    "name": "Ken Ip",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Kastanis_Anna.jpg",
+    "name": "Anna Kastanis",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Louis-Mansano_Jan-Kristof.jpg",
+    "name": "Jan-Kristof Louis-Mansano",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Louis-Mansano_Jan-Krist\u00f2f.jpg",
+    "name": "Jan-Krist\u00f2f Louis-Mansano",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Lucario_Dennis.jpg",
+    "name": "Dennis Lucario",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Lucisano_Amy.jpg",
+    "name": "Amy Lucisano",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Luckman_Melissa.jpg",
+    "name": "Melissa Luckman",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Martini_Christina.jpg",
+    "name": "Christina Martini",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Maysonet-Sigler_Raquel.jpg",
+    "name": "Raquel Maysonet-Sigler",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Ming_Rachael.jpg",
+    "name": "Rachael Ming",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Nicolosi_Kim.jpg",
+    "name": "Kim Nicolosi",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Pugh_Brian.jpg",
+    "name": "Brian Pugh",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Quinn_Veronica.jpg",
+    "name": "Veronica Quinn",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Resnick_Ashley.jpg",
+    "name": "Ashley Resnick",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Richardson_Ramona.jpg",
+    "name": "Ramona Richardson",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Scully-Nisa_Helen.jpg",
+    "name": "Helen Scully-Nisa",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Scully_Samantha.jpg",
+    "name": "Samantha Scully",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Taub_Danit.jpg",
+    "name": "Danit Taub",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Visbal_Anastasia.jpg",
+    "name": "Anastasia Visbal",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Williams_Lauren.jpg",
+    "name": "Lauren Williams",
+    "variants": []
+  },
+  {
+    "department": "GUIDANCE",
+    "image": "images\\GUIDANCE\\Williams_Tara.jpg",
+    "name": "Tara Williams",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Balansag_Maria.jpg",
+    "name": "Maria Balansag",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Bloom_Todd.jpg",
+    "name": "Todd Bloom",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Brutus_Jean.jpg",
+    "name": "Jean Brutus",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Cicolini_Anthony.jpg",
+    "name": "Anthony Cicolini",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Cicolini_Brianne.jpg",
+    "name": "Brianne Cicolini",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Gigliello_Stephen.jpg",
+    "name": "Stephen Gigliello",
+    "variants": ["Stever"]
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Gugendiran_Pratheip.jpg",
+    "name": "Pratheip Gugendiran",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Malone_Maureen.jpg",
+    "name": "Maureen Malone",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Maro_Joseph.jpg",
+    "name": "Joseph Maro",
+    "variants": ["Joe"]
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Nolan_Sarah.jpg",
+    "name": "Sarah Nolan",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Parizman_Lori.jpg",
+    "name": "Lori Parizman",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Patti_Stacey.jpg",
+    "name": "Stacey Patti",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Rubin_Joshua.jpg",
+    "name": "Joshua Rubin",
+    "variants": ["Josh"]
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\San_Agustin_Joy.jpg",
+    "name": "Joy San Agustin",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Sigona_Carla.jpg",
+    "name": "Carla Sigona",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Stuart_Nicole.jpg",
+    "name": "Nicole Stuart",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Swartz_Derek.jpg",
+    "name": "Derek Swartz",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Tennenbaum_Austin.jpg",
+    "name": "Austin Tennenbaum",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND PHYSICAL EDUCAITON",
+    "image": "images\\HEALTH AND PHYSICAL EDUCAITON\\Weiss_David.jpg",
+    "name": "David Weiss",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Alberga_Angelene.jpg",
+    "name": "Angelene Alberga",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Anderson_Elmer.jpg",
+    "name": "Elmer Anderson",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Best_Diedra.jpg",
+    "name": "Diedra Best",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Carter_Lisa.jpg",
+    "name": "Lisa Carter",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Hershinson_Evan.jpg",
+    "name": "Evan Hershinson",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Ho_Willie.jpg",
+    "name": "Willie Ho",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Iacono_Lisa.jpg",
+    "name": "Lisa Iacono",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Lee_Marilyn.jpg",
+    "name": "Marilyn Lee",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Manduley_Jackie.jpg",
+    "name": "Jackie Manduley",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Martinez_Manuel.jpg",
+    "name": "Manuel Martinez",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Mathias_Juanita.jpg",
+    "name": "Juanita Mathias",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Mc_Neil_Pierre.jpg",
+    "name": "Pierre McNeil",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Newby_Delmar.jpg",
+    "name": "Delmar Newby",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Park_Jeffrey.jpg",
+    "name": "Jeffrey Park",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Ree_Timothy.jpg",
+    "name": "Timothy Ree",
+    "variants": ["Tim"]
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Schmidt_Peter.jpg",
+    "name": "Peter Schmidt",
+    "variants": []
+  },
+  {
+    "department": "HEALTH AND SAFETY",
+    "image": "images\\HEALTH AND SAFETY\\Stein_Richard.jpg",
+    "name": "Richard Stein",
+    "variants": ["Rich"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Aguis_Christina.jpg",
+    "name": "Christina Aguis",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Amato_Daniel.jpg",
+    "name": "Daniel Amato",
+    "variants": ["Dan"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Bathurst_James.jpg",
+    "name": "James Bathurst",
+    "variants": ["Jimmy Bathfarts"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Berry_Heather.jpg",
+    "name": "Heather Berry",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Blozy_Tom.jpg",
+    "name": "Tom Blozy",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Bonheiner_Nathan.jpg",
+    "name": "Nathan Bonheiner",
+    "variants": ["Nate"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Breivogel_Shubhra.jpg",
+    "name": "Shubhra Breivogel",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Brennan_Alexandra.jpg",
+    "name": "Alexandra Brennan",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Chu_Carrie.jpg",
+    "name": "Carrie Chu",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Debenedetto_Julia.jpg",
+    "name": "Julia Debenedetto",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Franz_Kiersten.jpg",
+    "name": "Kiersten Franz",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Grassel_Kathryn.jpg",
+    "name": "Kathryn Grassel",
+    "variants": ["Grassmaster", "Grass"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Hoftyzer_Linda.jpg",
+    "name": "Linda Hoftyzer",
+    "variants": ["Linder"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Hogan_Amy.jpg",
+    "name": "Amy Hogan",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Huang_Danrong.jpg",
+    "name": "Danrong Huang",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Lee_Amy.jpg",
+    "name": "Amy Lee",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Levy_Amos.jpg",
+    "name": "Amos Levy",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Lockeretz_Benjamin.jpg",
+    "name": "Benjamin Lockeretz",
+    "variants": ["Ben"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Loomba_Rita.jpg",
+    "name": "Rita Loomba",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Matthews_Scott.jpg",
+    "name": "Scott Matthews",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Moran_Brigid.jpg",
+    "name": "Brigid Moran",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Morgenroth_Ben.jpg",
+    "name": "Ben Morgenroth",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Mukherjee_Arup.jpg",
+    "name": "Arup Mukherjee",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Nguyen_Vivi.jpg",
+    "name": "Vivi Nguyen",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Ostrowsky_Andrew.jpg",
+    "name": "Andrew Ostrowsky",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Raftery_Kenneth.jpg",
+    "name": "Kenneth Raftery",
+    "variants": ["Ken"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Rodriguez_Mike.jpg",
+    "name": "Mike Rodriguez",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Saenz_Raul.jpg",
+    "name": "Raul Saenz",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Samuels_Bruce.jpg",
+    "name": "Bruce Samuels",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Shah_Hemal.jpg",
+    "name": "Hemal Shah",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Shuman_Douglas.jpg",
+    "name": "Douglas Shuman",
+    "variants": ["Doug"]
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Shutes_Dustin.jpg",
+    "name": "Dustin Shutes",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Stein_Steve.jpg",
+    "name": "Steve Stein",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Stein_Steven.jpg",
+    "name": "Steven Stein",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Stivaros_Chrystalleni.jpg",
+    "name": "Chrystalleni Stivaros",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Yale_Lydia.jpg",
+    "name": "Lydia Yale",
+    "variants": []
+  },
+  {
+    "department": "MATHEMATICS",
+    "image": "images\\MATHEMATICS\\Yee_Patricia.jpg",
+    "name": "Patricia Yee",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Alleyne_Yvette.jpg",
+    "name": "Yvette Alleyne",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Chan_Ivy.jpg",
+    "name": "Ivy Chan",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Huhn_Mary.jpg",
+    "name": "Mary Huhn",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Kaelin_Joseph.jpg",
+    "name": "Joseph Kaelin",
+    "variants": ["Joe", "Papa K"]
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Massie_Christina.jpg",
+    "name": "Christina Massie",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\O'Neal_Kecia.jpg",
+    "name": "Kecia O'Neal",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Robinson_Bynum_Monica.jpg",
+    "name": "Monica Robinson Bynum",
+    "variants": []
+  },
+  {
+    "department": "PARENT AND STUDENT ENGAGEMENT",
+    "image": "images\\PARENT AND STUDENT ENGAGEMENT\\Velazquez_Edwin.jpg",
+    "name": "Edwin Velazquez",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Adams_David.jpg",
+    "name": "David Adams",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Alomeri_Mohammed.jpg",
+    "name": "Mohammed Alomeri",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Bari_Rashidul.jpg",
+    "name": "Rashidul Bari",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Bradshaw_Raymond.jpg",
+    "name": "Raymond Bradshaw",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Brickman_Andrew.jpg",
+    "name": "Andrew Brickman",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Carrao_Christian.jpg",
+    "name": "Christian Carrao",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Davey_Kathleen.jpg",
+    "name": "Kathleen Davey",
+    "variants": ["Katie"]
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Duncan_Thomas.jpg",
+    "name": "Thomas Duncan",
+    "variants": ["TJ", "T.J."]
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Evangelist_Thomas.jpg",
+    "name": "Thomas Evangelist",
+    "variants": ["Tommy"]
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Geier_Jacob.jpg",
+    "name": "Jacob Geier",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Greenspan_Bruce.jpg",
+    "name": "Bruce Greenspan",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Haggerty_John.jpg",
+    "name": "John Haggerty",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\McCollum_Clarence.jpg",
+    "name": "Clarence McCollum",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Paugh_Joshua.jpg",
+    "name": "Joshua Paugh",
+    "variants": ["Josh"]
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Sardo_Rachel.jpg",
+    "name": "Rachel Sardo",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Vargas_Jose.jpg",
+    "name": "Jose Vargas",
+    "variants": []
+  },
+  {
+    "department": "PHYSICS",
+    "image": "images\\PHYSICS\\Yi_Nancy.jpg",
+    "name": "Nancy Yi",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Apollon_Steve.jpg",
+    "name": "Steve Apollon",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Avery_Serge.jpg",
+    "name": "Serge Avery",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Barbour_Alan.jpg",
+    "name": "Alan Barbour",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Carter_Alexandra.jpg",
+    "name": "Alexandra Carter",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Cheung_William.jpg",
+    "name": "William Cheung",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Dennie_Vincent.jpg",
+    "name": "Vincent Dennie",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\DiVeronica_Jake.jpg",
+    "name": "Jake DiVeronica",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Ferry_Jennie.jpg",
+    "name": "Jennie Ferry",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Frost_Joshua.jpg",
+    "name": "Joshua Frost",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Galperin_Elina.jpg",
+    "name": "Elina Galperin",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Gilmore_David.jpg",
+    "name": "David Gilmore",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Gindi_Erica.jpg",
+    "name": "Erica Gindi",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Heh_Mark.jpg",
+    "name": "Mark Heh",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Jeremie_Judith.jpg",
+    "name": "Judith Jeremie",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Johnson_Elizabeth.jpg",
+    "name": "Elizabeth Johnson",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Kaplan_Rachel.jpg",
+    "name": "Rachel Kaplan",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Kilgore_Keith.jpg",
+    "name": "Keith Kilgore",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Kleiner_Orli.jpg",
+    "name": "Orli Kleiner",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Leaf_Jonathan.jpg",
+    "name": "Jonathan Leaf",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Linder_Phil.jpg",
+    "name": "Phil Linder",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Li_Xu.jpg",
+    "name": "Xu Li",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Locke_Jeff.jpg",
+    "name": "Jeff Locke",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Maclean_Matthew.jpg",
+    "name": "Matthew Maclean",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Macvicar_Duncan.jpg",
+    "name": "Duncan Macvicar",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Manduley_Jackie.jpg",
+    "name": "Jackie Manduley",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Mansano_Kellan.jpg",
+    "name": "Kellan Mansano",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Martinez_Josidalgo.jpg",
+    "name": "Josidalgo Martinez",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Mayle_Francis.jpg",
+    "name": "Francis Mayle",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Mc_Manamon_Sean.jpg",
+    "name": "Sean McManamon",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Meyer_Victoria.jpg",
+    "name": "Victoria Meyer",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Misirlakis_Harry.jpg",
+    "name": "Harry Misirlakis",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Nadel_Kathleen.jpg",
+    "name": "Kathleen Nadel",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Pratt_Isaiah.jpg",
+    "name": "Isaiah Pratt",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Robinson_Bynum_Monica.jpg",
+    "name": "Monica Robinson Bynum",
+    "variants": ["Robinson-Bynum"]
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Schepard_David.jpg",
+    "name": "David Schepard",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Schmidt-Nowara_Peter.jpg",
+    "name": "Peter Schmidt-Nowara",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Schoeller_Samantha.jpg",
+    "name": "Samantha Schoeller",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Stavola_Stephen.jpg",
+    "name": "Stephen Stavola",
+    "variants": ["Steve"]
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Stevens_Adam.jpg",
+    "name": "Adam Stevens",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Tahan_Izzat.jpg",
+    "name": "Izzat Tahan",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Vergara_Luis.jpg",
+    "name": "Luis Vergara",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Verini_Brett.jpg",
+    "name": "Brett Verini",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Wentworth_Thomas.jpg",
+    "name": "Thomas Wentworth",
+    "variants": []
+  },
+  {
+    "department": "SOCIAL STUDIES",
+    "image": "images\\SOCIAL STUDIES\\Zagoreos_Maria.jpg",
+    "name": "Maria Zagoreos",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Abdenour_Edward.jpg",
+    "name": "Edward Abdenour",
+    "variants": ["Eddie"]
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Bader_Dema.jpg",
+    "name": "Dema Bader",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Brodsky_Jacob.jpg",
+    "name": "Jacob Brodsky",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Esguerra_Marlon.jpg",
+    "name": "Marlon Esguerra",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Franco_Victoria.jpg",
+    "name": "Victoria Franco",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Gindi_Erica.jpg",
+    "name": "Erica Gindi",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Hung_Malicka.jpg",
+    "name": "Malicka Hung",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Kabalkin_Esther.jpg",
+    "name": "Esther Kabalkin",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Mansano_Kellan.jpg",
+    "name": "Kellan Mansano",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Monti-Wohlpart_Tim.jpg",
+    "name": "Tim Monti-Wohlpart",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Montolio_Jossie.jpg",
+    "name": "Jossie Montolio",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Mukhuradze_Rati.jpg",
+    "name": "Rati Mukhuradze",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Ramos_Carlos.jpg",
+    "name": "Carlos Ramos",
+    "variants": []
+  },
+  {
+    "department": "SPECIAL EDUCATION",
+    "image": "images\\SPECIAL EDUCATION\\Singh_Anurag.jpg",
+    "name": "Anurag Singh",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Abraham_Liju.jpg",
+    "name": "Liju Abraham",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Black_Eric.jpg",
+    "name": "Eric Black",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Bostic_Michele.jpg",
+    "name": "Michele Bostic",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Calderon_Prisca.jpg",
+    "name": "Prisca Calderon",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Carley_Carol.jpg",
+    "name": "Carol Carley",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Carlisle_Tameika.jpg",
+    "name": "Tameika Carlisle",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Chan_Ivy.jpg",
+    "name": "Ivy Chan",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Cruz_Felix.jpg",
+    "name": "Felix Cruz",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Davis_Melinie.jpg",
+    "name": "Melinie Davis",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Ferrigno_Alessandria.jpg",
+    "name": "Alessandria Ferrigno",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Greene_Tiffany-Ann.jpg",
+    "name": "Tiffany-Ann Greene",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Gurevich_Inessa.jpg",
+    "name": "Inessa Gurevich",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Huggins_Julia.jpg",
+    "name": "Julia Huggins",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Lara_Dolores.jpg",
+    "name": "Dolores Lara",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Lee_Joan.jpg",
+    "name": "Joan Lee",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Mathias_Juanita.jpg",
+    "name": "Juanita Mathias",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\McDonald_Debra.jpg",
+    "name": "Debra McDonald",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\McIntyre_Ronald.jpg",
+    "name": "Ronald McIntyre",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Misell_Janet.jpg",
+    "name": "Janet Misell",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Murray_Judith.jpg",
+    "name": "Judith Murray",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Natale_Faye.jpg",
+    "name": "Faye Natale",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Octave_Yoline.jpg",
+    "name": "Yoline Octave",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Ortiz_David.jpg",
+    "name": "David Ortiz",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Richards_Arnecia.jpg",
+    "name": "Arnecia Richards",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Rowell_Tiffany.jpg",
+    "name": "Tiffany Rowell",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Smith_Sonia.jpg",
+    "name": "Sonia Smith",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Treglia_Angela.jpg",
+    "name": "Angela Treglia",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Vasquez_Reynaldo.jpg",
+    "name": "Reynaldo Vasquez",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Zamora_Hugo.jpg",
+    "name": "Hugo Zamora",
+    "variants": []
+  },
+  {
+    "department": "SUPPORT STAFF",
+    "image": "images\\SUPPORT STAFF\\Zimmer-Shea_Christine.jpg",
+    "name": "Christine Zimmer-Shea",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Bigsby_Barrington.jpg",
+    "name": "Barrington Bigsby",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Chang_Wandy.jpg",
+    "name": "Wandy Chang",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Coyle_Steven.jpg",
+    "name": "Steven Coyle",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\DePinto_Patricia.jpg",
+    "name": "Patricia DePinto",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\DePinto_Richard.jpg",
+    "name": "Richard DePinto",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Diolata_Edna.jpg",
+    "name": "Edna Diolata",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Fung_Park.jpg",
+    "name": "Park Fung",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Gonzalez_Yesid.jpg",
+    "name": "Yesid Gonzalez",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Guldal_Michael.jpg",
+    "name": "Michael Guldal",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Izakson_Sidney.jpg",
+    "name": "Sidney Izakson",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Minkoff_Katherine.jpg",
+    "name": "Katherine Minkoff",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Revi_Basia.jpg",
+    "name": "Basia Revi",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Tasopoulos_Alexander.jpg",
+    "name": "Alexander Tasopoulos",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Taylor_Garfield.jpg",
+    "name": "Garfield Taylor",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Trombetta_Gus.jpg",
+    "name": "Gus Trombetta",
+    "variants": ["Gustave"]
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Wanliss_Richard.jpg",
+    "name": "Richard Wanliss",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Weiner_Doug.jpg",
+    "name": "Doug Weiner",
+    "variants": []
+  },
+  {
+    "department": "VISUAL & PERFORMING ARTS",
+    "image": "images\\VISUAL & PERFORMING ARTS\\Withers_Deshawn.jpg",
+    "name": "Deshawn Withers",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Aguirre_Ana.jpg",
+    "name": "Ana Aguirre",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Albano_Michelle.jpg",
+    "name": "Michelle Albano",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Baptiste-Midy_Pascale.jpg",
+    "name": "Pascale Baptiste-Midy",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Cano_Jose.jpg",
+    "name": "Jose Cano",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Cook_Katherine.jpg",
+    "name": "Katherine Cook",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Costa_Mario.jpg",
+    "name": "Mario Costa",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\De-Meo_Alessandra.jpg",
+    "name": "Alessandra De-Meo",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\De-Vedia_Camila.jpg",
+    "name": "Camila De-Vedia",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Entrena_Maria.jpg",
+    "name": "Maria Entrena",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Gervasi_Eika.jpg",
+    "name": "Eika Gervasi",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Hornero_Raquel.jpg",
+    "name": "Raquel Hornero",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Iniguez_Rita.jpg",
+    "name": "Rita Iniguez",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Kao_Erhhan.jpg",
+    "name": "Erhhan Kao",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Keum_Joon.jpg",
+    "name": "Joon Keum",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Levadas_Randy.jpg",
+    "name": "Randy Levadas",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Lin_Rao.jpg",
+    "name": "Rao Lin",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Li_Hoi-Sha.jpg",
+    "name": "Hoi-Sha Li",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Mitchell_Valerie.jpg",
+    "name": "Valerie Mitchell",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Petersen_Christobal.jpg",
+    "name": "Christobal Petersen",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Rocio-Cely_Luz.jpg",
+    "name": "Luz Rocio-Cely",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Santiago-Campbell_Cristina.jpg",
+    "name": "Cristina Santiago-Campbell",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Sha_Tessa.jpg",
+    "name": "Tessa Sha",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Torres_Jean-Paul.jpg",
+    "name": "Jean-Paul Torres",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Wu_Xiao-Hong.jpg",
+    "name": "Xiao-Hong Wu",
+    "variants": []
+  },
+  {
+    "department": "WORLD LANGUAGES",
+    "image": "images\\WORLD LANGUAGES\\Yan_Chen.jpg",
+    "name": "Chen Yan",
+    "variants": []
+  }
+]
